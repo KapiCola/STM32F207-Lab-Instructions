@@ -1,10 +1,10 @@
-13:36:29 **** Incremental Build of configuration Debug for project Eksploracja_v1 ****
+14:02:26 **** Incremental Build of configuration Debug for project Eksploracja_v1 ****
 make -j12 all 
 arm-none-eabi-size  Eksploracja_v1.elf 
    text	   data	    bss	    dec	    hex	filename
-   9980	    104	   1920	  12004	   2ee4	Eksploracja_v1.elf
+   8520	    104	   1920	  10544	   2930	Eksploracja_v1.elf
 Finished building: default.size.stdout
  
 
-13:36:30 Build Finished. 0 errors, 0 warnings. (took 324ms)
+14:02:27 Build Finished. 0 errors, 0 warnings. (took 307ms)
 

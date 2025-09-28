@@ -544,3 +544,33 @@ java.lang.Exception: localhost:2331: Connection timed out.
 
 !ENTRY com.st.stm32cube.ide.mcu.debug.swv 1 1 2025-09-28 13:36:31.157
 !MESSAGE SWV configuration; base: 72000000; minDiv: 18; maxDiv: 2147483647; maxSWO: 4000000; limit: 2147483647 => SWO: 4000000; CPU: 96000000; div: 24
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-09-28 13:57:44.035
+!MESSAGE Indexed 'Eksploracja_v1' (18 sources, 81 headers) in 1.2 sec: 4,111 declarations; 15,673 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.01%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.swv 1 1 2025-09-28 13:59:21.758
+!MESSAGE SWV configuration; base: 72000000; minDiv: 18; maxDiv: 2147483647; maxSWO: 4000000; limit: 2147483647 => SWO: 4000000; CPU: 96000000; div: 24
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2025-09-28 13:59:22.354
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 14 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2025-09-28 13:59:22.355
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2025-09-28 13:59:22.357
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 14 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2025-09-28 13:59:22.357
+!MESSAGE Existing sessions are:
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-09-28 13:59:48.449
+!MESSAGE Indexed 'Eksploracja_v1' (18 sources, 81 headers) in 0.696 sec: 4,111 declarations; 15,673 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.01%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.swv 1 1 2025-09-28 14:00:07.488
+!MESSAGE SWV configuration; base: 72000000; minDiv: 18; maxDiv: 2147483647; maxSWO: 4000000; limit: 2147483647 => SWO: 4000000; CPU: 96000000; div: 24
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-09-28 14:01:57.963
+!MESSAGE Indexed 'Eksploracja_v1' (18 sources, 81 headers) in 0.683 sec: 4,111 declarations; 15,673 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.01%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug.swv 1 1 2025-09-28 14:02:27.978
+!MESSAGE SWV configuration; base: 72000000; minDiv: 18; maxDiv: 2147483647; maxSWO: 4000000; limit: 2147483647 => SWO: 4000000; CPU: 96000000; div: 24

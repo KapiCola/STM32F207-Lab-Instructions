@@ -58,7 +58,7 @@ static void MX_GPIO_Init(void);
 /* USER CODE BEGIN 0 */
 
 //tick counter
-volatile uint64_t ticks;
+uint64_t ticks;
 
 /** SysTick Interruption Handler */
 void SysTick_Handler(void){
